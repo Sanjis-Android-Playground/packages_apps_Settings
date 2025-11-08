@@ -177,4 +177,9 @@
     <string name="battery_maximum_capacity">Maximum capacity</string>
     <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
     <string name="battery_maximum_capacity_not_available" translatable="false">@string/battery_cycle_count_not_available</string>
+
+    <!-- ReVanced -->
+    <string name="revan_toggle_title">ReVanced Integration</string>
+    <string name="revan_toggle_summary">Use ReVanced variants of YouTube and YT Music instead of stock apps</string>
+    <string name="revan_restart_to_apply">Restart to apply changes</string>
 </resources>
